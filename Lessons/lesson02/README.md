@@ -5,11 +5,8 @@
 3. GreedyKnapsack: Given 1) volume of the backpack 4; 2) number of possible items 60; 3) the set of items itself
 
     100 50
-   
     120 30
-   
     100 50
    
 These are all listed in the file **[DATA](greedyKnapsack.txt)**
-
 You need to assemble the most expensive version of the backpack for this volume. Items can be cut into pieces (the algorithm will be greedy)
