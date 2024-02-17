@@ -11,3 +11,5 @@
 3. Запустить проект из класса `TestSpringApplication` (при успешном запуске в консоли будет появлятся текст)
 4. Перейти в любом браузере на http://localhost:8080/api/json
 5. На этой странице вы увидете: {"Name":"John Doe","Age":30,"Email":"john.doe@example.com"}
+
+![](https://github.com/gabrpavel/Java-projects/blob/e5c3de3de3bb83c95eb52e512f9f8934bf6fa521/Spring%20Framework/json.png)
